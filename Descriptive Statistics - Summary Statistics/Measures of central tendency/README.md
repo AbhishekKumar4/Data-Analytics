@@ -4,6 +4,8 @@
 -	Another way is to see, where we are covering exactly 50% of area under the curve.
 -	Think of it as a balance, as a seesaw. Where would you want to put the fulcrum such that this whole thing balances out.
 
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/centraltend.jpg)
+
 {insert image}
 # Three measures of central tendency
 -	Mean
@@ -11,19 +13,22 @@
 -	Mode 
 # Mean
 The idea behind mean is just that it is the concept of average. i.e. sum of all the numbers divided by total number of numbers there are.
-{insert image}
+
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/mean.png)
 
 # Median
 The median is calculated by arranging all the numbers in order (ascending or descending ), and choose the central number.
 Choosing the central number is easy when you have an odd number of numbers, in case of even numbers when you have two central numbers, just take the average of two.
 
-{insert image}
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/median.png)
 
 # Mode 
 -	Mode is the most common number.
 -	No number might repeat itself.
 -	One big advantage is it can be used with nominal variables too.
-{insert image}
+
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/mode.png)
+
 
 # How do we choose between Mean and Median?
 If you have to choose between mean and median, much of the debate usually comes down to the idea of **outliers**. 
