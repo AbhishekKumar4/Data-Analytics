@@ -6,7 +6,7 @@
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/centraltend.jpg)
 
-{insert image}
+
 # Three measures of central tendency
 -	Mean
 -	Median
@@ -39,7 +39,10 @@ In really simple words,
 
 **Example**
 A classic example where medians are used is when looking at salaries of the people, where the idea is that salaries having some sense of exponentials. Many people earn a consistent salary and then there are few people who just earn catastrophically high amounts. And here talking about the mean will not give us the typical salary that a person earns.
+
+
 **Let’s look at another example where we would like to go with the mean.**
+
 Let us say that we have this dataset where we were looking at particular financial strategy. In this financial strategy we are looking at how much money we made on a daily basis. So, this financial strategy made us lose 1 rupee everyday on 99 percent of the days, but on 1 percent this strategy gave us 10 crores, so a large enough number.
 So if we love making money we would love this strategy because despite the fact we lost 1 rupee on 99 percent of the days as long as we can play this game we are bound to make good amount of money.
 The median of this strategy would have been -1.
