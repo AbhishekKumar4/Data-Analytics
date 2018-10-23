@@ -29,19 +29,20 @@ The formula is easy: it is the square root of the Variance. So now you ask, "Wha
 
 If we just add up the differences from the mean ... the negatives cancel the positives:
 
-(image 1)	 	 4 + 4 − 4 − 44  = 0
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/sd1.gif)  4 + 4 − 4 − 44  = 0
 So that won't work.
 
-(image1)	 	 |4| + |4| + |−4| + |−4|4  =  4 + 4 + 4 + 44 = 4
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/sd1.gif)  |4| + |4| + |−4| + |−4|4  =  4 + 4 + 4 + 44 = 4
 That looks good, but what about this case:
 
-(image2)	 	 |7| + |1| + |−6| + |−2|4  =  7 + 1 + 6 + 24 = 4
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/sd2.gif)  |7| + |1| + |−6| + |−2|4  =  7 + 1 + 6 + 24 = 4
 Oh No! It also gives a value of 4, Even though the differences are more spread out.
 
 So let us try squaring each difference (and taking the square root at the end):
 
-(image1)	 	√( 42 + 42 + 42 + 424 ) = √( 644) = 4
-(image2)	 	√( 72 + 12 + 62 + 224 ) = √( 904) = 4.74...
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/sd1.gif)  √( 42 + 42 + 42 + 424 ) = √( 644) = 4
+
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/sd2.gif)  √( 72 + 12 + 62 + 224 ) = √( 904) = 4.74...
 That is nice! The Standard Deviation is bigger when the differences are more spread out ... just what we want.
 
 **But ... there is a small change with Sample Data**
@@ -58,8 +59,8 @@ Here are the two formulas for Standard Deviation Formulas if you want to know mo
 
     The "Population Standard Deviation":
 
- 	square root of [ (1/N) times Sigma i=1 to N of (xi - mu)^2 ]
+ 	![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/formula1.gif)
 
 	The "Sample Standard Deviation":	 	
 	
-	square root of [ (1/(N-1)) times Sigma i=1 to N of (xi - xbar)^2 ]
+	![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/formula.png)
