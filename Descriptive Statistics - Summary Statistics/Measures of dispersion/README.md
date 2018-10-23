@@ -67,7 +67,8 @@ When you have "N" data values that are:
 
 **Formulas**
 Here are the two formulas for Standard Deviation Formulas if you want to know more
-The population standard deviation :
+
+The "population standard deviation" :
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion/formula1.gif)
 
