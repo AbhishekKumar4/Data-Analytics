@@ -25,7 +25,8 @@ But, sometimesover a short enough interval, even if the overall distribution is 
 The uniform distribution can be thought of like ground 0, we do not make any assumptions, the probability of everything occurring within a certain interval is equal and we can potentially use it.
 
 **For continuous uniform distribution PDF is essentially 1 by b minus a.**
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution/PDF%26CDF.png)
 
 **CDF of this distribution? Again, it is x minus a by b minus a.**
 
-![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution/PDF%26CDF.png)
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution/cumulative.png)
