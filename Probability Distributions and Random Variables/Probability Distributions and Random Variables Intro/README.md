@@ -42,3 +42,25 @@ This is the same core concept of describing the distribution, but here the x axi
 For example probability of a certain height. A height can be a 180 centimeters, so that could be one number out here, but it could also be 150.001 centimeters, it could also be a 129.999 centimeters. We cannot possibly roll the dice and get a 2.5, whereas in measure of height we could get any possible value within the certain range.
 
 -Important thing to note is just like in the discrete distributions, where we said the sum of all the probabilities for each possibility should add up to a 100 percent or should add up to 1. Here we cannot have a countable number of possibilities, so we cannot take each possibility. Take the probability of that and added to 1, just because there are infinite number of them. So, basically what we do is, we take the entire interval and sum the probability within that interval and the best way to do that is to look at the area under the curve as a whole. So, this way when we look at this area, it is like we are taking all the possibilities within that area and summing all the probabilities for each possibility and when we do that, we will be getting 1 or a 100 percent.
+
+# CDF (cumulative density functions) and PDF (probability density functions)
+
+- For each probability density function, there exist a cumulative density function.
+
+**we will discuss it in the continuous case and that is the easiest and then separately do that for the discrete.**
+
+**PDF**
+Because there are infinite number of possible states, it does not really make sense to ask the question, what is the probability at a given point.
+
+It turns out that the answer to that question is that the probability of that given point is zero, although there is some y, there is some height for that given point. Because, there are infinite such points out here, because there are technically infinite such points. As a result, we can get the probability of given area by just measuring the area under this curve.
+
+**CDF**
+Describes the cumulative probability up to a certain point.
+The cumulative describes the probability from zero, from the lower end of the axis and that can be zero or that could be something like minus infinity or it could be some other value. From the starting point to all the way up to the point of interest.
+
+**way of getting from a PDF to CDF and from CDF to PDF
+
+PDF to CDF - Integrate ( Integrate up to a point x, so let us say just that this started at zero, but we could change
+that.)
+
+CDF to PDF - Differentiate ( Differentiate the CDF and that will give us the PDF).
