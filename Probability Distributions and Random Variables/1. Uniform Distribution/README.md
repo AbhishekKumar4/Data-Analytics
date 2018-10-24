@@ -6,6 +6,8 @@
 
 Uniform distribution, sometimes also known as a rectangular distribution, is a distribution that has constant probability.
 
+( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution/uniform.png)
+
 For instance we have a six sided dice, and we are quantifying the probability of getting any particular face values. So, the face value of the dice is essentially, we throw the dice and get something on top, so you see the 1 or 2 or 3 or 4 or 5 or 6. So, the probabilities associated with these 6 possible outcomes, assuming a fair dice is one sixth for each and, so that is example of discrete uniform distribution. 
 We also have the case of the coin toss, where we only have two possible outcomes and as long as they are both equal, it is still uniform.
 
@@ -25,3 +27,4 @@ The uniform distribution can be thought of like ground 0, we do not make any ass
 **For continuous uniform distribution PDF is essentially 1 by b minus a.**
 
 **CDF of this distribution? Again, it is x minus a by b minus a.**
+(https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution/PDF%26CDF.png)
