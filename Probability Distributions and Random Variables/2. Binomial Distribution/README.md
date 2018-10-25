@@ -23,7 +23,7 @@ If we qualtify the probability of heads and tails than we are taking about Berno
 **PDF (Probability density function)
 or PMF (Probability mass function : PMF is a standard way of calling PDF, when we are dealing with discrete distributions.)**
 
-{Image}
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/2.%20Binomial%20Distribution/binprob.gif)
 
 to be read as n choose k, ex : 5 heads out of 10 tosses.
 Here n = 10, and k=5.
