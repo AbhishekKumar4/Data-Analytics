@@ -11,7 +11,7 @@ For example :
 
 How many occurances happen over a certain period of time or space which is continuos.
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Probability%20Distributions%20and%20Random%20Variables/3.%20Poisson%20Distribution/poisson.PNG)
 
 
 where,
