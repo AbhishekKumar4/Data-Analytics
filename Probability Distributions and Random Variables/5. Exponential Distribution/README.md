@@ -1,7 +1,7 @@
 # Exponential Distribution
 
 - It is a continuous distribution.
-- Inter arrival times of the poisson distribution **(like grometric is for binomial)**.
+- Inter arrival times of the poisson distribution **(like geometric is for binomial)**.
 - Think of exponential as moving in time and wait for occurences.
 
 Example: 
