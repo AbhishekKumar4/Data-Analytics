@@ -24,11 +24,3 @@ Although, the binomial is a discrete distribution and the normal is a continuous
 I
 - When n becomes really large we can essentially use this formula that we have for mean and variance of the binomial distribution and construct a normal distribution, with this mean and variance we can answer distribution related questions.
 - In some cases, working out a problem using the Normal distribution may be easier than using a Binomial.
-
-# Central Limit Theorem
-
-
-
-
-
-
