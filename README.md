@@ -25,3 +25,4 @@
     - [Normal Distribution](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/6.%20Normal%20Distribution)
     - [Central Limit Theorem](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/7.%20Central%20Limit%20Theorem)
     - [Sampling Distribution](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/8.%20Sampling%20Distribution)
+  [Inferential Statistics](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics)
