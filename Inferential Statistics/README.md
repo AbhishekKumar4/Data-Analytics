@@ -15,7 +15,7 @@ The problem with this is if we take two or more data points maybe our average li
 
 **As the number of samples tends to infinity it (sample average) converge towards population average.**
 
-**The more data point we take, the overall variance of distribution reduces.
+**The more data point we take, the overall variance of distribution reduces.**
 
 **For finite number of samples we will have different distributions.**
 
