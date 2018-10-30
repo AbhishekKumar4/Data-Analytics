@@ -13,6 +13,7 @@
 For Example : Average calcium level in blood should be < 5.8 mg/dl, some might have 5 or 6 but this is sample data.
 The problem with this is if we take two or more data points maybe our average lie just below the range.
 
-**As the number of samples tends to infinity it (sample average) converge towards population average.
+**As the number of samples tends to infinity it (sample average) converge towards population average.**
+
 **For finite number of samples we will have different distributions.**
 
