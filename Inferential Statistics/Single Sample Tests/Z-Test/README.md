@@ -14,12 +14,27 @@ Data : 4.1, 3.9. 5.3, 4.7 ........
 
 Now we have sample data, we need to say something about the population.
 
-Steps:
 Step 1: Check null hypothesis.
 
 Step 2: Calculate the 'test statistics'.
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Single%20Sample%20Tests/Z-Test/zscoreformula.png)
 
-Step 3: If the null hypothesis is true, than the z-statistic should be the same or equivalent to pulling a random number from a z-distribution or N(0, 1), with mean 0 and variance 1.
+Step 3: If the null hypothesis is true, than the z-statistic should be the same or equivalent to pulling a random number from a z-distribution or N(0, 1), with mean 0 and variance 1. The z-distribution is nothing but a normaldistribution with mean of 0.
+
+Step 4:  Check if z-stat actually look like it could be something that we could havepulled out of a N(0,1 square), because if it does not, then something that we assumed was wrong.
+
+Step 5:  Ff it turns out that the z-stat is too extreme a value to be coming from this normal distribution, then we can maybe make
+a statement about the null hypothesis.
+
+Step 6: Calculate p-value, it is the probability of seeing a test statistic as extreme as the calculated value if the null hypothesis is true. If it looks too extreme, and the p value of the probability of seeing this test statistic is really low; then, perhaps the null hypothesis was not true to start with.
+
+For instance out here, if the z-statistic you computed was 1.2. I am going to compute a probability; and, this – the probability is a probability to
+the right side of 1.2. It is the area under the curve out here. And the idea is because We are then quantifying the probability of seeing something as extreme as 1.2 or greater than is equal to the area under this curve. That might happen to be any value. So, if it happens to be something like 13 percent or whatever. But, if this number was really low; if this number was 0.001. The standard thing that you do is you fail to reject the null hypothesis; you technically never accept the null hypothesis.
+
+
+In most of the scenarios people work with two-tailed case. two tailed case, where your null hypothesis is really that for example mu is equal to 4.8. And, we are interested in rejecting this null hypothesis whether that mu is too large; meaning it is large enough that we can say that it cannot be equal to 4.8; or, if it is small enough. So, we are happy to reject if we see evidence that shows that mu cannot be 4.8 on either account; maybe because it is the data suggests that it is too large, maybe because the data suggests that it is too small. And, that is called the two-tailed case.
+
+
+
 
