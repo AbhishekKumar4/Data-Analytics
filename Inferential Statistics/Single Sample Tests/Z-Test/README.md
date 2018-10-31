@@ -16,6 +16,10 @@ Now we have sample data, we need to say something about the population.
 
 Steps:
 Step 1: Check null hypothesis.
+
 Step 2: Calculate the 'test statistics'.
+
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Single%20Sample%20Tests/Z-Test/zscoreformula.png)
+
 Step 3: If the null hypothesis is true, than the z-statistic should be the same or equivalent to pulling a random number from a z-distribution or N(0, 1), with mean 0 and variance 1.
 
