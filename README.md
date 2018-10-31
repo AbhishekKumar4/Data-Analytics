@@ -30,3 +30,6 @@
     - [The overarching principle](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/The%20overarching%20principle)
     - [Single Sample Tests](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests)
       - [Z-Test](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests/Z-Test)
+      - [T-Test](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests/T-Test)
+      - [Chi-Square Test](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests/Chi-Square%20Test)
+      - [Proportion Z-Test](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests/Proportion%20Z-Test)
