@@ -28,7 +28,7 @@ For Example : Average amount of phosphate level in blood (population parameter).
 - If we were to repeatedly take identical samples (same size) and build similar confidence interval bounds for each sample than 95% of such CI bounds will cover the true mean.
 - We are 95% confident/certain that the true mean is within our confidence interval.
 
-# Formulas
+# Formulas (for single sample)
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Confidence%20Intervals/Confidence-Interval-Formula.gif)
 
