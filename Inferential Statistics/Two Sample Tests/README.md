@@ -19,8 +19,8 @@ Examples :
   - Have a null and alternate hypothesis. Ho = u1 = u2 and H(alt) : u1 =/(not equal) u2.
   - Calculate the test statistic.
   
-  
-  
+  ![alt text](  https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Two%20Sample%20Tests/twosampleztest.png)
+ 
   Here (u1-u2) is degrees of freedom (DOF). if u1 = u2 than DOF=0 and if mean is 3 units higher. i.e u1 = u2 + 3 than DOF=3.
   - This is the Z-Distrubution or N(0,1sq).
   - Use Z tables, excel, R or matlab.
