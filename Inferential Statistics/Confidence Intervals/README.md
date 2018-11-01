@@ -17,11 +17,11 @@ For Example : Average amount of phosphate level in blood (population parameter).
 
 - It is same underlying math when Ho:Uo=4.8;
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Single%20Sample%20Tests/Z-Test/zscoreformula.png)
 
 - Given that we dont have some hypothesis. we ask ourselves the question that within what range can our U's be such that, we will calculate a 'Z' such that we will get a p-value which we will not reject.
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Confidence%20Intervals/ci-for-the-mean-formula.png)
 
 # Different ways of conceptualizing
 
@@ -30,6 +30,6 @@ For Example : Average amount of phosphate level in blood (population parameter).
 
 # Formulas
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Inferential%20Statistics/Confidence%20Intervals/Confidence-Interval-Formula.gif)
 
 
