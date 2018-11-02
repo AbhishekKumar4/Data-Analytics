@@ -24,6 +24,16 @@ An agent said to learn from experience with respect to some class of tasks, and 
     - Association Mining/Association Rule Mining : Frequent Co-occurence.
 - Reinforcement Learning (Example : Learning to ride bicycle, trial and error learning)
   - Learning Control
+  
+# Machine Learning Tasks
 
+![alt text]( )
 
+# Challenges
 
+- How good is the model?
+- How do we choose a model?
+- Do we have enough data?
+- Is data of sufficient quality? Example : Errors in data ex : Age 225, Noise in low resolution image and missing values.
+- How confident can we be of the results?
+- Are we describing the data correctly? Example : Are age and income enough?, should we look at gender also? How should we represent age? As a number? or as young, middle age and old?
