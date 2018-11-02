@@ -27,7 +27,7 @@ An agent said to learn from experience with respect to some class of tasks, and 
   
 # Machine Learning Tasks
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/MLTasks.PNG)
 
 # Challenges
 
