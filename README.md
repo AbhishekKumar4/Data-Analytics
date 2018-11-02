@@ -35,4 +35,5 @@
       - [Proportion Z-Test](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Single%20Sample%20Tests/Proportion%20Z-Test)
      - [Two Sample Tests](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Two%20Sample%20Tests)
      - [Confidence Intervals](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Confidence%20Intervals)
+     - [ANOVA and TOI](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/ANOVA%20and%20TOI)
  
