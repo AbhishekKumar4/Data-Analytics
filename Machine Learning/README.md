@@ -14,5 +14,16 @@ An agent said to learn from experience with respect to some class of tasks, and 
 
 # Three Paradigms of Machine Learning
 
+- Supervised Learning
+  - Learn an input to output map
+    - Classification :  Categorical Output
+    - Regression : Continuous Output
+- Unsupervised Learning
+  - Discover patterns in the data that need not necessarily be any output that we are trying to produce.
+    - Clustering :  Cohesive Grouping
+    - Association Mining/Association Rule Mining : Frequent Co-occurence.
+- Reinforcement Learning (Example : Learning to ride bicycle, trial and error learning)
+  - Learning Control
+
 
 
