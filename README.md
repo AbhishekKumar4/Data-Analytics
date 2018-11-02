@@ -36,4 +36,5 @@
      - [Two Sample Tests](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Two%20Sample%20Tests)
      - [Confidence Intervals](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Confidence%20Intervals)
      - [ANOVA and TOI](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/ANOVA%20and%20TOI)
+  - [Machine Learning](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning)
  
