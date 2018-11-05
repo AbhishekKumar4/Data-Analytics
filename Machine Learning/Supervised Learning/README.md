@@ -51,5 +51,7 @@ Given that we have already selected the language in which we are going to repres
 
 # Supervised Learning Process
 
+![alt text]( )
+
 
 
