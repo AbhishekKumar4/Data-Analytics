@@ -27,12 +27,10 @@ Some popular examples of supervised machine learning algorithms are:
 
 Suppose we are given some data of age and income of customer coming to buy a laptop plotted with customer who bought the laptop and who doesn't.
 
-![alt text]( )
-
 - Simplest model would be to draw a straight line. i.e people who are below certain income are not going to buy laptop and people above certain incoe are going to buy the laptop.
 - We have to be really cautious that we do not end up modelling noise in data that leads us to make wrong predictions in future data.
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Supervised%20Learning/supervised-learning-classification.png)
 
 # Inductive Bias/Inductive Learning
 
