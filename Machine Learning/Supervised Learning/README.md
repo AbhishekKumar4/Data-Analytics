@@ -22,3 +22,34 @@ Some popular examples of supervised machine learning algorithms are:
 - Linear regression for regression problems.
 - Random forest for classification and regression problems.
 - Support vector machines for classification problems.
+
+# Classification
+
+Suppose we are given some data of age and income of customer coming to buy a laptop plotted with customer who bought the laptop and who doesn't.
+
+![alt text]( )
+
+- Simplest model would be to draw a straight line. i.e people who are below certain income are not going to buy laptop and people above certain incoe are going to buy the laptop.
+- We have to be really cautious that we do not end up modelling noise in data that leads us to make wrong predictions in future data.
+
+![alt text]( )
+
+# Inductive Bias/Inductive Learning
+
+- Our goal is just not to do well on the training data. If we are only interested in doing well in training data the best way to do it then is just to remember all the data points given to us so that we dont make mnistakes again.
+- Our goal is to perform well on the data that we have never seen before. We need to generalize on unseen data and the only way to generalize on unseen data is by mainly assumptions about the model.
+- **Need to generalize assumptions about the line**
+- Such assumptions on models that we are generating are called as Inductive Bias.
+
+**Inductive bias is of two types**
+
+**Language Bias**
+Is essentially the restrictions that we had on the kind of line i.e If we say, we are nly going to consider straight lines that are parallel to x-axiz or y-axis, its one kind of language bias.
+
+**Search Bias**
+Given that we have already selected the language in which we are going to represent our classifier. How do we search among the possible classifiers in that language in order to find the right one.
+
+# Supervised Learning Process
+
+
+
