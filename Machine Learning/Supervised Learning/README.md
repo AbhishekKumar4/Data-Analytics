@@ -51,5 +51,6 @@ Given that we have already selected the language in which we are going to repres
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Supervised%20Learning/SupervisedProcess.png)
 
+# Training
 
-
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Supervised%20Learning/Training_SL.png)
