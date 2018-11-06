@@ -64,3 +64,13 @@ Given that we have already selected the language in which we are going to repres
 - Churn Prediction (potential churner or not)
   - User of sevice likely to leave soon. for example switching from vodafone to airtel or vice versa, take measure to retain them.
 - Medical diagnosis and also in risk analysis.
+
+# Supervised Learning Architectures
+
+Learning can produce different structures :
+- Artificial Neural Networks.
+- Support Vector Machines.
+- Decision Trees.
+- Set Of Rules.
+- Nearest Neighbours.
+- Bayesian Network.
