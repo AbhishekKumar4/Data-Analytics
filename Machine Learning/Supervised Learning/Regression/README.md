@@ -7,6 +7,7 @@ Here, target variable means the unknown variable we care about predicting, and c
 Figure out the difference between the line, the prediction made by the line that we fit and the actual data point that was recorded and take the square of the error and try to minimize that.
 
 # Linear Regression
+- “Draw the line. Yes, this counts as machine learning.”
 - Minimize the sum squared error.
 - With sufficient data, simple enough is just to set matrix operations.
 - With many dimensions, challenge is to avoid overfitting and this can be avoided by adopting **Regularization**(Ensure that of all the models that can fit the data to a certain extent, we will try to find something which is simple enough so that we do not overfit the data)
