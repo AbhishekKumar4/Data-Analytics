@@ -14,3 +14,17 @@ Figure out the difference between the line, the prediction made by the line that
 - Higher order functions. How do we handle them? We handle them by **Basis Transformation**. For example : We take the input x1 and x2 and than we translate it to a much larger description by adding second order terms.
 
 (x1, x2) -->  {x1(square). x2(square), x1x2, x1, x2}
+
+# Applications Of Regression
+
+- Time series prediction
+  - Rainfall in a certain region.
+  - Expenses on voice calls.
+- Classification
+  - What is the probability that the person is going to buy laptop.
+- Data Reduction
+  - Instead of giving 10,000 points we can give low dimentional line/curve to that and simply tell the parameters of the line.
+- Trend Analysis
+  - More interested in the data analysis than prediction. we would like to know weather the growth rate is linear or exponential.
+- Risk factor analysis
+  - Factor contributing most to the output. example : In linear regression, the input variable which has larger cofficient is the one who is going to be influencing the output most.
