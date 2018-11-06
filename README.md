@@ -39,5 +39,5 @@
   - [Machine Learning](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning)
     - [Supervised Learning](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Supervised%20Learning/README.md)
       - [Classification](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Supervised%20Learning/README.md)
-      - [Regression]
+      - [Regression](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Supervised%20Learning/Regression)
  
