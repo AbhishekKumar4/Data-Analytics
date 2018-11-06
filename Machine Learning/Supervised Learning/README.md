@@ -54,3 +54,12 @@ Given that we have already selected the language in which we are going to repres
 # Training
 
 ![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Supervised%20Learning/Training_SL.png)
+
+# Applications of classification
+
+- Credit card fraud detection
+  - Valid transaction or not.
+- Sentiment Analysis/Opinion mining/Buzz Analysis
+  - On social media or any other paltform weather someone is saying positive or negative about subject.
+- Churn Prediction (potential churner or not)
+  - User of sevice likely to leave soon. for example switching from vodafone to airtel or vice versa, take measure to retain them.
