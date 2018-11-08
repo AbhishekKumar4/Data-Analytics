@@ -20,4 +20,21 @@ We could find patterns in :
   - Market based data
 - Graphs
   - Social network analysis
+    
+# Mining Transactions
+
+- Transaction is a collection of ites brought together.
+  - For example :  we go to supermarket and buy items and on checkout make payments. So all the items we bought forms a transactin. **It could be set of items --> Itemset**.
+- Goal is to find frequesnt itemsets, so than we can g ahead and form rules.
+
+Itemset A ==>(implies) ItemsetB, if both A and A U B are frequent ietmsets. Example : Milk and Bread.
+
+**Applications of Minings transactions**
+
+- Market Basket Analysis
+  - Putting milk and bread together at same place in the supermarket.
+- Predicting Co-occurances
+- Time series analysis
+  - Trigger events
+
 
