@@ -8,7 +8,7 @@
 
 - In the task of clustering we are interested to find groupings of similar data points in our input.
 
-![alt text]( )
+![alt text]( https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Unsupervised%20Learning/unsupervisedlearning.png)
 
 **Things to notice**
  - The clusters all seems to be ellipses.
