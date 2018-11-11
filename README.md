@@ -42,4 +42,5 @@
       - [Regression](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Supervised%20Learning/Regression)
     - [Unsupervised Learning](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Unsupervised%20Learning)
       - [Association Rule Mining](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Unsupervised%20Learning/Association%20Rule%20Mining)
- 
+    - [Why Machine Learning?](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Why%20ML)
+    
