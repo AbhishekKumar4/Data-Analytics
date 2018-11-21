@@ -42,7 +42,7 @@ R(square) is not so good as discussed because, R(square) by defination will only
  
  - Modified version of R(square).
  
- ![alt text]()
+ ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/AdjustedRsquare.PNG)
  
  - Goal is for higher R(square) but K as minimum.
  
