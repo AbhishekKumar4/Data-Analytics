@@ -35,3 +35,15 @@ R(square) = SSM / SST
 
 ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/SSE.PNG)
 
+
+R(square) is not so good as discussed because, R(square) by defination will only increase as we keep on adding more and more variables.(Later to be discussed in Bias-Variance Dichotomy)
+
+**Therefore another metric that we can use is Adjusted R(square)**
+ 
+ - Modified version of R(square).
+ 
+ ![alt text]()
+ 
+ - Goal is for higher R(square) but K as minimum.
+ 
+
