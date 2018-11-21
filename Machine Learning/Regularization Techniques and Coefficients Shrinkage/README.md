@@ -21,17 +21,17 @@
 
 R(square) = SSM / SST
 
-- So from ANOVA test we have only one equation left i.e SSE(sum of squares error) also known as residualsum of squares(RSS).
+- So from ANOVA test we have only one equation left i.e SSE(sum of squares error) also known as residual sum of squares(RSS).
 
 - Total squared distance of each data point from the grand mean.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/SST.PNG)
 
 - Each predicted value and look at deviation from grand mean.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/SSM.PNG)
 
 - How much is each data point is deviating from each predicted value.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/SSE.PNG)
 
