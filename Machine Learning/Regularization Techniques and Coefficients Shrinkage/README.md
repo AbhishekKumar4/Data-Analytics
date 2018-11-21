@@ -62,12 +62,13 @@ Suppose we have an algorithm and we have fixed number of input variables. So, we
  
 # Ridge Regression
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/RRminization.png)
 
 
 # Lasso Regression
+- Almost same , just the subject to constaint is different.
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage/lassoR.png)
  
  
  
