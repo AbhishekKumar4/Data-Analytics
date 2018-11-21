@@ -21,4 +21,17 @@
 
 R(square) = SSM / SST
 
-- 
+- So from ANOVA test we have only one equation left i.e SSE(sum of squares error) also known as residualsum of squares(RSS).
+
+- Total squared distance of each data point from the grand mean.
+
+![alt text]()
+
+- Each predicted value and look at deviation from grand mean.
+
+![alt text]()
+
+- How much is each data point is deviating from each predicted value.
+
+![alt text]()
+
