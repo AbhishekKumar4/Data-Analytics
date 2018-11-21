@@ -46,4 +46,30 @@ R(square) is not so good as discussed because, R(square) by defination will only
  
  - Goal is for higher R(square) but K as minimum.
  
+ 
+ *Continuation of Regularization Techniques and Coefficients Shrinkage*
+ 
+Suppose we have an algorithm and we have fixed number of input variables. So, we are no longer bargaining to throw away variables out or keep them in. But is there some way in our fitting methodology itself, preventing this problem of over-fitting, preventing to get the functional form to be so hard wired to the data that it does not do a good job of predicting and kind of imposing penalties upon ourselves to kind of overfitting.
+ 
+- One way in which overfitting happens is problem of multi-colinearity(idea that many of input variables are co-related with each other).
+ - Ex : Y = 4A - 2B, imagine if A and B are co-related to a point where they are practically same variable than a fitted model i.e Y = 10A - 8B should also kind of give us the same results in a sense that A and B are practically same data points.
+ - In cases like this we want to have the simplest possible equation and lowest possible magnitudes for variables.
+ 
+ Y = 2A - 0B, here 2 is magnitude. How can we achieve this?(In next point)
+ 
+ - In really siple terms not just allowing highly co-related variables to take up opposing sides and have really large co-efficients(By using standard least squares minimization).
+ 
+ 
+# Ridge Regression
+
+![alt text]()
+
+
+# Lasso Regression
+
+![alt text]()
+ 
+ 
+ 
+ 
 
