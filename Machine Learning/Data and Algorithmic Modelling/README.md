@@ -39,4 +39,7 @@ The way it happens is:
 - Its a line that minimizes the squared deviation(if we are doing ordinary least squares).
 - and we make prediction.
 - Than someone asks what Y we can expect given this X.
+- So we draw a line from x1 and see what value of Y we are getting based on our fitted model.
+- After this we dont need this data points, we can erase them.
+- Alll we need to know is the line we created with regression.
 
