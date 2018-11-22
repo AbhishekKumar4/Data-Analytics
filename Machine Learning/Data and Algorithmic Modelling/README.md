@@ -60,5 +60,10 @@ The way it happens is:
 - Take these y's average and thats our predicted Y.
 - There are some modifications to this so, sometimes we dont take the average. we might do localised regression many other ways where we dont take the localised mean we might take median.
 - But the core approach with KNN is that we have not fitted the line, we did not create any mathematical abstraction of the data.
+- We need all our data points, if asked 5 NN we we do that, if asked 10 NN we do that.
+- Its computationally very hard as we have to store all the data and have to swift through the data to find all the nearest neighbours.
+- Good amount of focus is on data mining and computational aspects when using something like this.
+- Also very convinient when we have no idea of what the functional form is.
+
 
 
