@@ -64,6 +64,16 @@ The way it happens is:
 - Its computationally very hard as we have to store all the data and have to swift through the data to find all the nearest neighbours.
 - Good amount of focus is on data mining and computational aspects when using something like this.
 - Also very convinient when we have no idea of what the functional form is.
+- Suppose the linear regression approach can be very useful if we believe the relationship between y and x is the straight line, but we dont want to make that assumption at all, KNN is flexible to any functional form that y and x could have.
+- KNN also works when we have multiple input variables, in this approach think y of as it is coming out of the screen.
+
+![alt text]()
+
+- If we needed to tae 5 NN approach on two input variables we can still do that, we can use the concept of inpout space. if we have 3 or more input variables we are talking about hyper space use Uclaydian, manhattan distance etc.
+
+![alt text]()
+
+- We can also use it in classification problems.
 
 
 
