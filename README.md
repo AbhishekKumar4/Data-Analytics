@@ -45,4 +45,5 @@
     - [Why Machine Learning?](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Why%20ML)
     - [Ordinary Least Squares Regression](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/OLSR)
     - [Regularization Techniques and Coefficients Shrinkage](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Regularization%20Techniques%20and%20Coefficients%20Shrinkage)
+    - [Data and Algorithmic Modelling](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Data%20and%20Algorithmic%20Modelling/README.md)
     
