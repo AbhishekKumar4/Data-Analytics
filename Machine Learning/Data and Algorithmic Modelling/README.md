@@ -43,3 +43,11 @@ The way it happens is:
 - After this we dont need this data points, we can erase them.
 - Alll we need to know is the line we created with regression.
 
+# KNN Approach
+
+- We basically dont fit the line.
+- The idea behind KNN is if someone asks that what Y we can expect for given X.
+- We will take the given X and we will ask ourself, **"Who its nearest neighbours are?"**
+- On our input variable axis we try to find the nearest neighbours, neighbouring data points to the x'(x under question).
+- This KNN approach has a parameter 'K'. lets assume we took K as 5, it measns we are looking for 5 nearest neighbours defined by the distance from the point under question.
+
