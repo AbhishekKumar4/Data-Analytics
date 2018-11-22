@@ -16,3 +16,9 @@
 Example: for linear regression Y = f(x) + E(Noise), for multiple regression and also with discriminant analysis etc.
 
 - Alll captures functional relationships between y and x and that function is in some sense cast in stone and the only job we are left with is to go get the data and figure out what the parameters are of the function.
+
+# 2. Algorithmic Modelling Approach
+
+- Focus is not much on rigid mathematical model that we have pre supposed, which creates a relationship between x and y.
+- But instead we really have a set of algorithmic instructions or algorithmic ideas that relate the independent and dependent variable.
+- In loose sense y is function of x but that is captured by algorithms rather than rigi mathematical models.
