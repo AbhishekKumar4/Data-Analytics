@@ -22,3 +22,21 @@ Example: for linear regression Y = f(x) + E(Noise), for multiple regression and 
 - Focus is not much on rigid mathematical model that we have pre supposed, which creates a relationship between x and y.
 - But instead we really have a set of algorithmic instructions or algorithmic ideas that relate the independent and dependent variable.
 - In loose sense y is function of x but that is captured by algorithms rather than rigi mathematical models.
+
+Example: K nearest neighbours and random forests etc.
+
+# Prediction
+
+- Goal is to understand KNN approach.
+- Lets discuss how prediction task happens with linear regression approach.
+
+**The Regression Approach**
+
+The way it happens is:
+
+- We have some data.
+- We do regression analysis(it fits a line through the data).
+- Its a line that minimizes the squared deviation(if we are doing ordinary least squares).
+- and we make prediction.
+- Than someone asks what Y we can expect given this X.
+
