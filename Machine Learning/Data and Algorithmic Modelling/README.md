@@ -51,3 +51,14 @@ The way it happens is:
 - On our input variable axis we try to find the nearest neighbours, neighbouring data points to the x'(x under question).
 - This KNN approach has a parameter 'K'. lets assume we took K as 5, it measns we are looking for 5 nearest neighbours defined by the distance from the point under question.
 
+![alt text]()
+
+- Once we identify these 5 data points, we take their average Y's to make a prediction.
+
+![alt text]()
+
+- Take these y's average and thats our predicted Y.
+- There are some modifications to this so, sometimes we dont take the average. we might do localised regression many other ways where we dont take the localised mean we might take median.
+- But the core approach with KNN is that we have not fitted the line, we did not create any mathematical abstraction of the data.
+
+
