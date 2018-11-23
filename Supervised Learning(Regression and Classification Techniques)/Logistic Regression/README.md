@@ -51,6 +51,17 @@ X2 = (0.4, 0.45), Y2 = +1
 
 **Solution is Linear Regression**
 
+- We can still use linear regression on a transformed function.
+- Logistic or logit function.
+ - Log odds.
+ - Let p(x) denote the p(y=1|x) than logit transformation is given by:
+   
+   ![alt text]()
+   
+- So in short we are takin g a ration of probability o success to probability of failure known as log-odds function. 
+ 
+ 
+
 
 
 
