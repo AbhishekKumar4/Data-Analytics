@@ -43,6 +43,16 @@ X2 = (0.4, 0.45), Y2 = +1
 - Now use linear regression.
 - F(x) can be interpreted as P(Y = 1/X)
 
+**Problems with this approach**
+
+- Linear regression is not limites in range, output can go from -infinity to +infinity therefore can not be interpreted in probability.
+- Output can not be interpreted as a probability as it can be negative.
+- Works in practice but not that well.
+
+**Solution is Linear Regression**
+
+
+
 
 
 
