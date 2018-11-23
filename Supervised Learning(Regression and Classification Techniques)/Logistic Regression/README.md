@@ -22,7 +22,28 @@ it mean for the points on the decision surface we are not able to make decision 
 
 - Interested in knowing the actual probability of a specific class given a data point not just finding the right classification. example : medical domain, suppose patient has a specific disease, we would like to know that how confident is the doctor of the prediction and doctor says that he is 90% sure that he has this disease. so its better to go for treatment.
 - So likewise when you have a classifier that is going to give you a class label. we would like to know that how sure the classifier of the class label and thats one application where we would like to see these kinds of probabilities.
-- One way to approach predicting probabilities instead just of the class lables could be to treat it as a regression problem. 
+- One way to approach predicting probabilities instead just of the class lables could be to treat it as a regression problem.
+
+# classification as a regression problem or Pregression of classification**
+
+- We have labels (example : persons who buys computer and persons who dont).
+- Instead of using this label we can use indicator variables for the classes example : person who buys computer --> 1, and who doesnot --> 0.
+- Now our data is transformed into a regression problem instead of classification.
+
+X1 = (30,000, 25), Y1 = Doesnot buy
+
+X2 = (80,000, 45), Y2 = Buys computer
+
+transformed to,
+
+X1 = (0.15, 0.25), Y1 = 0
+
+X2 = (0.4, 0.45), Y2 = +1
+
+- Now use linear regression.
+- F(x) can be interpreted as P(Y = 1/X)
+
+
 
 
 
