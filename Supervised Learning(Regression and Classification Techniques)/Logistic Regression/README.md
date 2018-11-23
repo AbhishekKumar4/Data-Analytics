@@ -20,6 +20,9 @@ it mean for the points on the decision surface we are not able to make decision 
 
 **Going beyond classification**
 
-- Interested in knowing the actual probability of a specific class given a data point not just finding the right classification. 
+- Interested in knowing the actual probability of a specific class given a data point not just finding the right classification. example : medical domain, suppose patient has a specific disease, we would like to know that how confident is the doctor of the prediction and doctor says that he is 90% sure that he has this disease. so its better to go for treatment.
+- So likewise when you have a classifier that is going to give you a class label. we would like to know that how sure the classifier of the class label and thats one application where we would like to see these kinds of probabilities.
+- One way to approach predicting probabilities instead just of the class lables could be to treat it as a regression problem. 
+
 
 
