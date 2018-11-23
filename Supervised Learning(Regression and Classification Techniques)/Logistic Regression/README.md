@@ -56,7 +56,7 @@ X2 = (0.4, 0.45), Y2 = +1
  - Log odds.
  - Let p(x) denote the p(y=1|x) than logit transformation is given by:
    
-   ![alt text]()
+   ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Logistic%20Regression/logit_transformation.PNG)
    
 - So in short we are takin g a ration of probability o success to probability of failure known as log-odds function. 
  
