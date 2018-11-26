@@ -37,6 +37,7 @@
      - [Confidence Intervals](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/Confidence%20Intervals)
      - [ANOVA and TOI](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Inferential%20Statistics/ANOVA%20and%20TOI)
   - [Machine Learning](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning)
+    - [Data preprocessing in python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Data%20PreProcessing) 
     - [Supervised Learning](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Supervised%20Learning/README.md)
       - [Classification](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Supervised%20Learning/README.md)
       - [Regression](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Machine%20Learning/Supervised%20Learning/Regression)
