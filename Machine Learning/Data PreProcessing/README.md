@@ -43,7 +43,10 @@ python -m pip install --user numpy pandas --proxy="url"
 ````
 import pandas as py
 dataset = py.read_csv('Customers.csv')
+# select all the rows and all columns except the last column
 X = dataset.iloc[ : , :-1].values
+
+# select all the rows data from 3rd column
 Y = dataset.iloc[ : , 3].values
 
 ````
