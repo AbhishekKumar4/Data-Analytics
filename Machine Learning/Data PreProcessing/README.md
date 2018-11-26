@@ -37,3 +37,15 @@ D:\>python get-pip.py --proxy="http://url"
 python -m pip install --user numpy pandas --proxy="url"
 ````
 # Data PreProcessing
+
+**1. Importing libraries and dataset**
+
+````
+import pandas as py
+dataset = py.read_csv('Customers.csv')
+X = dataset.iloc[ : , :-1].values
+Y = dataset.iloc[ : , 3].values
+
+````
+
+
