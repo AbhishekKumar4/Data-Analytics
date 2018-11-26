@@ -31,5 +31,9 @@ In this case try adding proxy :
 D:\>python get-pip.py --proxy="http://url"
 ````
 
+- Install required libraries
 
+````
+python -m pip install --user numpy pandas --proxy="url"
+````
 # Data PreProcessing
