@@ -70,6 +70,12 @@ print(Y)
 
 ````
 **2. Handling missing values**
+ - Data can be missing due to various reasons.
+ - Handle missing data so it does not impact the performance of machine learning model.
+ - Missing values can be replaced by mean, median or mode of entire column
+ - Can use Imputer class from sklearn.preprocessing
+ - Getting warning as imputer is marked as deprecated.
+ - SimpleImputer can be used in place of Imputer.
 
 ````
 from sklearn.preprocessing import Imputer
