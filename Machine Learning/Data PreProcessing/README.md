@@ -156,3 +156,10 @@ is transformed to:
 
 [0 1 0 0 1 1 0 1 0 1]
 ````
+
+**Splitting dataset in to training and test set**
+
+- We will take partitions of dataset.
+- One for training set and other for testing the performance of trained model called test set.
+- Generally split is 80:20.
+- train_test_split() method from sklearn.cross_validation can be used.
