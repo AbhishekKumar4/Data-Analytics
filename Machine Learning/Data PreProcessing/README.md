@@ -69,3 +69,5 @@ print(Y)
 ['No' 'Yes' 'No' 'No' 'Yes' 'Yes' 'No' 'Yes' 'No' 'Yes']
 
 ````
+**2. Handling missing values**
+
