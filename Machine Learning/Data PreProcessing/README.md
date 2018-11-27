@@ -50,5 +50,22 @@ X = dataset.iloc[ : , :-1].values
 Y = dataset.iloc[ : , 3].values
 
 ````
+if we print X and Y, we get below results
 
+````
+print(X)
+[['France' 44.0 72000.0]
+ ['Spain' 27.0 48000.0]
+ ['Germany' 30.0 54000.0]
+ ['Spain' 38.0 61000.0]
+ ['Germany' 40.0 nan]
+ ['France' 35.0 58000.0]
+ ['Spain' nan 52000.0]
+ ['France' 48.0 79000.0]
+ ['Germany' 50.0 83000.0]
+ ['France' 37.0 67000.0]]
+ 
+print(Y)
+['No' 'Yes' 'No' 'No' 'Yes' 'Yes' 'No' 'Yes' 'No' 'Yes']
 
+````
