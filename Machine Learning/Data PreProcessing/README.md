@@ -71,3 +71,27 @@ print(Y)
 ````
 **2. Handling missing values**
 
+````
+from sklearn.preprocessing import Imputer
+imputer = Imputer(missing_values = "NaN", strategy = "mean", axis = 0)
+imputer = imputer.fit(X[ : , 1:3])
+X[ : , 1:3] = imputer.transform(X[ : , 1:3])
+print(X)
+
+output : 
+
+[['France' 44.0 72000.0]
+D:\:DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead. warnings.warn(msg, category=DeprecationWarning)
+[['France' 44.0 72000.0]
+ ['Spain' 27.0 48000.0]
+ ['Germany' 30.0 54000.0]
+ ['Spain' 38.0 61000.0]
+ ['Germany' 40.0 63777.77777777778]
+ ['France' 35.0 58000.0]
+ ['Spain' 38.77777777777778 52000.0]
+ ['France' 48.0 79000.0]
+ ['Germany' 50.0 83000.0]
+ ['France' 37.0 67000.0]]
+ 
+````
+
