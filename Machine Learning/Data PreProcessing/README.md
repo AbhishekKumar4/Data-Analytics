@@ -104,3 +104,15 @@ D:\:DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in v
 - Number of possible values are limited to fixed set.
 - For example values like true, false can not be used in mathematical equations of the model, therefore we need to encode these values to numbers.
 - To achieve this LabelEncoder class can be used from sklearn.preprocessing package.
+
+````
+# Encoding categorical data
+from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+labelencoder_X = LabelEncoder()
+X[ : , 0] = labelencoder_X.fit_transform(X[ : , 0])
+
+onehotencoder = OneHotEncoder(categorical_features = [0])
+X = onehotencoder.fit_transform(X).toarray()
+
+````
+
