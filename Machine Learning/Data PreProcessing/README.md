@@ -141,4 +141,18 @@ is transformed to :
  [1.00000000e+00 0.00000000e+00 0.00000000e+00 3.70000000e+01 6.70000000e+04]]
 
 ````
+transforming Y
 
+````
+labelencoder_Y = LabelEncoder()
+Y =  labelencoder_Y.fit_transform(Y)
+print(Y)
+
+Output: 
+
+['No' 'Yes' 'No' 'No' 'Yes' 'Yes' 'No' 'Yes' 'No' 'Yes']
+
+is transformed to:
+
+[0 1 0 0 1 1 0 1 0 1]
+````
