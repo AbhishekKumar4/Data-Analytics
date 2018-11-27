@@ -157,9 +157,49 @@ is transformed to:
 [0 1 0 0 1 1 0 1 0 1]
 ````
 
-**Splitting dataset in to training and test set**
+**4. Splitting dataset in to training and test set**
 
 - We will take partitions of dataset.
 - One for training set and other for testing the performance of trained model called test set.
 - Generally split is 80:20.
 - train_test_split() method from sklearn.cross_validation can be used.
+
+````
+from sklearn.model_selection  import train_test_split
+X_train, X_test, Y_train, Y_test = train_test_split( X , Y , test_size = 0.2, random_state = 0)
+
+
+Output Analysis : 
+
+print(X_train)
+
+[[0.00000000e+00 1.00000000e+00 0.00000000e+00 4.00000000e+01
+  6.37777778e+04]
+ [1.00000000e+00 0.00000000e+00 0.00000000e+00 3.70000000e+01
+  6.70000000e+04]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00 2.70000000e+01
+  4.80000000e+04]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00 3.87777778e+01
+  5.20000000e+04]
+ [1.00000000e+00 0.00000000e+00 0.00000000e+00 4.80000000e+01
+  7.90000000e+04]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00 3.80000000e+01
+  6.10000000e+04]
+ [1.00000000e+00 0.00000000e+00 0.00000000e+00 4.40000000e+01
+  7.20000000e+04]
+ [1.00000000e+00 0.00000000e+00 0.00000000e+00 3.50000000e+01
+  5.80000000e+04]]
+  
+print(X_test)
+
+[[0.0e+00 1.0e+00 0.0e+00 3.0e+01 5.4e+04]
+ [0.0e+00 1.0e+00 0.0e+00 5.0e+01 8.3e+04]]
+ 
+print(Y_train)
+
+[1 1 1 0 1 0 0 1]
+
+print(Y_test)
+
+[0 0]
+````
