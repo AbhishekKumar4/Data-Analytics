@@ -86,7 +86,6 @@ print(X)
 
 output : 
 
-[['France' 44.0 72000.0]
 D:\:DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in version 0.20 and will be removed in 0.22. Import impute.SimpleImputer from sklearn instead. warnings.warn(msg, category=DeprecationWarning)
 [['France' 44.0 72000.0]
  ['Spain' 27.0 48000.0]
@@ -100,4 +99,8 @@ D:\:DeprecationWarning: Class Imputer is deprecated; Imputer was deprecated in v
  ['France' 37.0 67000.0]]
  
 ````
-
+**3. Handling categorical data**
+- Categorical data are variables that contains label values.
+- Number of possible values are limited to fixed set.
+- For example values like true, false can not be used in mathematical equations of the model, therefore we need to encode these values to numbers.
+- To achieve this LabelEncoder class can be used from sklearn.preprocessing package.
