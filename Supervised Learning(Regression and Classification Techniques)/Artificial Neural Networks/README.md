@@ -44,3 +44,22 @@
 
 - If input is below threshold 0(theta), output is 0(zero).
 - If input is above threshold 0(theta), it makes the output 1
+
+# What type of computations can we do with MP model
+
+- Almost all of our familiar boolean operations with the MP neuron
+
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks/ComputationsbyMP.jpg)
+
+**AND**
+- If only both X1 and X2 are 1 so it will be >= threshold therefore output will be 1.
+
+**OR**
+- Either X1 or X2=1 , therefore output=1
+
+**NOT**
+- X1 acts as a inhibitory unit.
+- if X1=1, inhibited o/p=0
+- if X1=0, inhibited o/p=1 (or result of computation).
+
+**Connect all together and solve any boolean function**
