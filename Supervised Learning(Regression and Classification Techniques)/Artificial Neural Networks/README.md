@@ -11,4 +11,8 @@
 
 # Biological Neural Network
 
+- Looking into biological neural network, we will basically only focus on input and the output.
+- Neuron receives input from dendrite or dendrite branches.
+- and when input signal is above a certain threshold its going to produce an output that is going to be transmitted via tha synapsis to neurons that are further down the line.
+-
 
