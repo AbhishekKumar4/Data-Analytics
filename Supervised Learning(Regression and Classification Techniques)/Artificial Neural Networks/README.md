@@ -26,7 +26,7 @@
   - Are of two types : Excitatory or Inhibitory.
   - Transmits only binary signals.
   
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks/simple_computing_unit.PNG)
 
 
 
