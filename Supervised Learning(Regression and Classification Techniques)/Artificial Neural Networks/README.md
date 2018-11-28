@@ -37,3 +37,10 @@
 - If m>=1 and atleast on of the Yi is 1, the unit is inhibited and the result of computation is 0.
 - Otherwise, computed X= X1 + X2 + ....Xn if X>= 0(theta) the result is 1, else the result is 0(Zero).
 - So the inhibitory in some sense here act as a gating signal. So if it is 1 the output is always 0 and if it is 0 then the output is result of computation.
+
+**Step function with threshold**
+
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks/step_function.gif)
+
+- If input is below threshold 0(theta), output is 0(zero).
+- If input is above threshold 0(theta), it makes the output 1
