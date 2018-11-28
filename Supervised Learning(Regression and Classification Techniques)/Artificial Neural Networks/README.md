@@ -25,5 +25,8 @@
   - Directed, Unweighted.
   - Are of two types : Excitatory or Inhibitory.
   - Transmits only binary signals.
+  
+![alt text]()
+
 
 
