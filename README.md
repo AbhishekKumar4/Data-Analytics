@@ -50,3 +50,4 @@
     - [Data and Algorithmic Modelling](https://github.com/AbhishekKumar4/Data-Analytics/blob/master/Machine%20Learning/Data%20and%20Algorithmic%20Modelling/README.md)
    - [Supervised Learning(Regression and Classification Techniques)](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques))
      - [Logistic Regression](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Logistic%20Regression)
+     - [Artificial Neural Networks](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks)
