@@ -29,4 +29,11 @@
   - Are of two types : Excitatory or Inhibitory.
   - Transmits only binary signals.
 
+![alt text]()
 
+# Rules for evaluating the input
+
+- Assume that a MP unit gets input X1, X2, .....Xn through n excitatory (+ve) edges and inputs Y1, Y1 .....Ym through the inhibitory edges.
+- If m>=1 and atleast on of the Yi is 1, the unit is inhibited and the result of computation is 0.
+- Otherwise, computed X= X1 + X2 + ....Xn if X>= 0(theta) the result is 1, else the result is 0(Zero).
+- So the inhibitory in some sense here act as a gating signal. So if it is 1 the output is always 0 and if it is 0 then the output is result of computation.
