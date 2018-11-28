@@ -17,7 +17,10 @@
 - These connections through the dendrites and lapses are going to result in a complex network, even though the computing done by each element is very simple, summation and thresholding the sum,  total of this taken across on the network can give raise to very complex computations.
 
 # A simple computing unit
+  
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks/simple_computing_unit.PNG)
 
+# McCulloch Pitts Unit (1943)
 - Initial model was proposed by McCulloch pitts (1943), known as McCulloch pitts unit or MP units.
 - Uses only binary signals. i.e 0's and 1's.
 - Nodes also produce only binary results (outputs are only 0's or 1's).
@@ -25,8 +28,5 @@
   - Directed, Unweighted.
   - Are of two types : Excitatory or Inhibitory.
   - Transmits only binary signals.
-  
-![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Supervised%20Learning(Regression%20and%20Classification%20Techniques)/Artificial%20Neural%20Networks/simple_computing_unit.PNG)
-
 
 
