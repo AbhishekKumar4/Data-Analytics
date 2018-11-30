@@ -26,4 +26,4 @@ plt.bar(x, y)
 plt.show(block=True)
 ````
 
-![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Bar%20Graphs/Bar%20graphs%20using%20python/CrimeStats_barGraphs.PNG)
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Bar%20Graphs/Bar%20graphs%20using%20python/Crims_Stats.PNG)
