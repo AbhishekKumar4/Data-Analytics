@@ -1,5 +1,6 @@
 # Bar Graphs Using Python
 
+Code for plotting bar graph : 
 
 ````
 import pandas as pd
@@ -24,3 +25,5 @@ plt.ylabel('Total Crimes Recorded')
 plt.bar(x, y)
 plt.show(block=True)
 ````
+
+![alt text]()
