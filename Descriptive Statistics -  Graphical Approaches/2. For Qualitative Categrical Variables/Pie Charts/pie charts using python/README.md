@@ -25,5 +25,5 @@ plt.show()
 
 ````
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Pie%20Charts/pie%20charts%20using%20python/pie_Chart.PNG)
 
