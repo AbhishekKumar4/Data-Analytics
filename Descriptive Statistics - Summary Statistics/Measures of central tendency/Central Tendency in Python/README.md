@@ -46,4 +46,4 @@ plt.show()
   
   ````
   
-  ![alt text]()
+  ![alt text](https://raw.githubusercontent.com/AbhishekKumar4/Data-Analytics/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/Central%20Tendency%20in%20Python/ct_hist.PNG)
