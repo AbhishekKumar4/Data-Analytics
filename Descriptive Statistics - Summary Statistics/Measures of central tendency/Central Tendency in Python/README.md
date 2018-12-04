@@ -32,3 +32,16 @@ standard_error = stats.sem(crimes)
 print('Standard Error : ', standard_error)
   
   ````
+  
+  **Add code to plot a histogram**
+  
+  ````
+plt.hist(crimes,bins=10,color='grey')
+plt.axvline(mean_value,color='red',label='Mean')
+plt.axvline(median_values,color='yellow',label='Median')
+plt.xlabel('Crimes')
+plt.ylabel('Frequency')
+plt.legend()
+plt.show()
+  
+  ````
