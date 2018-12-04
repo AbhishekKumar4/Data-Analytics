@@ -5,6 +5,7 @@
     - [For Quantitative Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/1.%20For%20Quantitative%20Variables)
       - [Box Plot](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/1.%20For%20Quantitative%20Variables/Box%20Plot)
       - [Histogram](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/1.%20For%20Quantitative%20Variables/Histogram)
+        - [Histogram In Python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/1.%20For%20Quantitative%20Variables/Histogram/histograms%20in%20python)
     - [For Qualitative Categrical Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables)
       - [Bar Graphs](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Bar%20Graphs)
       - [Pie Charts](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Pie%20Charts)
