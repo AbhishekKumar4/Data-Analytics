@@ -8,6 +8,7 @@
         - [Histogram In Python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/1.%20For%20Quantitative%20Variables/Histogram/histograms%20in%20python)
     - [For Qualitative Categrical Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables)
       - [Bar Graphs](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Bar%20Graphs)
+        - [Bar Graphs Using Python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Bar%20Graphs/Bar%20graphs%20using%20python)
       - [Pie Charts](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/2.%20For%20Qualitative%20Categrical%20Variables/Pie%20Charts)
     - [For Multiple Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables)
       - [Multiple Box Plots](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables/Multiple%20Box%20Plots)
