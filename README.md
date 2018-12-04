@@ -14,6 +14,7 @@
     - [For Multiple Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables)
       - [Multiple Box Plots](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables/Multiple%20Box%20Plots)
       - [Scatter Plots](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables/Scatter%20Plots)
+        - [Scatter Plots In Python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables/Scatter%20Plots/Scatter%20plots%20in%20python)
       - [Contigency Tables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20%20Graphical%20Approaches/3.%20For%20Multiple%20Variables/Contigency%20Tables)
   - [Descriptive statistics : Summary statistics]()
     - [Measures of central tendency](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency)
