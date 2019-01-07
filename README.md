@@ -20,7 +20,7 @@
     - [Measures of central tendency](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency)
       - [Central Tendency In Python](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20central%20tendency/Central%20Tendency%20in%20Python)
     - [Measures of dispersion](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20Summary%20Statistics/Measures%20of%20dispersion)
-  - [Probability Distributions and Random Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Descriptive%20Statistics%20-%20Summary%20Statistics)
+  - [Probability Distributions and Random Variables](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/Probability%20Distributions%20and%20Random%20Variables%20Intro)
     - [Probability Distributions and Random Variables Intro](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/Probability%20Distributions%20and%20Random%20Variables%20Intro)
     - [Uniform Distribution](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/1.%20Uniform%20Distribution)
     - [Binomial Distribution](https://github.com/AbhishekKumar4/Data-Analytics/tree/master/Probability%20Distributions%20and%20Random%20Variables/2.%20Binomial%20Distribution)
